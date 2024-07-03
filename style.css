@@ -5,7 +5,7 @@ body{
    background-color:#5e9ca0;
 }
 
-#wrapper h2{
+#container h2{
     display:flex;
     justify-content: center;
     
@@ -27,7 +27,7 @@ input{
 input:active{
     border:none;
 }
-#wrapper{
+#container{
     height:500px;
     width:400px;
     margin:200px auto;
